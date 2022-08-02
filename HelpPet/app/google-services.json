@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "908846399130",
+    "firebase_url": "https://chatapp-4333a-default-rtdb.firebaseio.com",
+    "project_id": "profile-project-d2e4e",
+    "storage_bucket": "profile-project-d2e4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908846399130:android:d5d1f0e9b2c6fd582c2923",
+        "android_client_info": {
+          "package_name": "org.techtown.tab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908846399130-0idrd9r2ii81thdn7h98ga652bb59c42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1X2TyUi4vLr8ai2i6r38pvSSyx8VRNn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908846399130-0idrd9r2ii81thdn7h98ga652bb59c42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
