@@ -1,8 +1,3 @@
-# AndroidProject
-
-
-
-&nbsp;
 # :blue_book:HelpPet
 > 2021.03.03 ~ 2021.06.12 Android Project
 #### 원하는 사용자 간 반려동물을 맡길 수 있는 반려동물 돌봄 서비스입니다.
