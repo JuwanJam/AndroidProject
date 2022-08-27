@@ -1,16 +1,10 @@
-# FinalProject
-FinalProject by 세나개
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/110036792/181253203-6ca9a1ca-21b7-42c3-b380-4319e9cdc50e.png"> 
-</p>
-
+# AndroidProject
 
 
 
 &nbsp;
-# :blue_book:행복하게 돌볼고양
-> 2021.05.19 ~ 2021.07.26 Spring FinalProject
+# :blue_book:HelpPet
+> 2021.03.03 ~ 2021.06.12 Android Project
 #### 원하는 사용자 간 반려동물을 맡길 수 있는 반려동물 돌봄 서비스입니다.
 ##### :bulb: 즉, 누구나 돌봄요청을 할 수 있고, 누구나 돌봄매니저가 될 수 있는 양방향 반려동물 돌봄 서비스
 &nbsp;
@@ -41,8 +35,7 @@ FinalProject by 세나개
 
 
 # 1. 조원 소개
-#### 세나개(세상에 나쁜 개발자는 없다.)
->  박주완, 김준혁, 노승민, 이예선, 최재윤
+>  박주완, 강민서, 박건우, 정기선
 
 # 2. 배경 및 목적
 * **문제의식**
